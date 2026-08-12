@@ -7,7 +7,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,30:1a0a2e,60:ff2d78,100:2dd4bf&height=220&section=header&text=LAUANE%20SANTANA&fontSize=48&fontColor=ffffff&fontAlignY=45&desc=Cybersecurity%20%7C%20Cloud%20%7C%20Automation&descSize=15&descAlignY=62&descColor=ff80b5&animation=fadeIn&fontAlign=50&stroke=ff2d78&strokeWidth=1" />
 
 <!-- TYPING 1 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2800&pause=700&color=FF2D78&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=🔐+Security+is+not+a+product+—+it's+a+process;☁️+Cloud+%7C+AWS+%7C+Red+Hat+%7C+Cisco;🕵️+Penetration+Testing+%26+Threat+Analysis;🤖+AI+Automation+Developer+%40+Lead2Sales;⚡+Building+an+extraordinary+career)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2800&pause=700&color=FF2D78&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=🔐+Security+is+not+a+product+—+it's+a+process;☁️+Cloud+%7C+AWS+%7C+Red+Hat+%7C+Cisco;🕵️+Penetration+Testing+%26+Threat+Analysis;🤖+AI+Automation+Developer+;⚡+Building+an+extraordinary+career)](https://git.io/typing-svg)
 
 <br/>
 
