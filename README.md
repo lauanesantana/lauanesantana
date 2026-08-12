@@ -1,367 +1,301 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════
-     BANNER PRINCIPAL
-════════════════════════════════════════════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0a0f1c,100:00f5ff&height=220&section=header&text=SYSTEM%20INITIALIZED&fontSize=42&fontColor=00f5ff&animation=fadeIn&fontAlignY=38&desc=LAUANE%20ALVES%20SANTANA%20%7C%20DEVELOPER%20%7C%20CYBERSECURITY%20ENTHUSIAST&descAlignY=60&descSize=15&descColor=ffffff"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:7c6bff,100:2dd4bf&height=200&section=header&text=LAUANE%20SANTANA&fontSize=42&fontColor=e8e6f0&fontAlignY=38&desc=Security%20%7C%20Cloud%20%7C%20Automation&descSize=16&descAlignY=58&descColor=a78bfa&animation=fadeIn" />
+<br>
 
-<!-- ═══════════════════════════════════════════════════════════════
-     TYPING ANIMATION
-════════════════════════════════════════════════════════════════ -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=850&lines=%3E+Booting+Developer+Environment...;%3E+Initializing+Cybersecurity+Module...;%3E+Loading+Artificial+Intelligence...;%3E+Building+the+Future+with+Code...;%3E+System+Status%3A+ONLINE+%E2%9C%93" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=7C6BFF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=45&lines=⚡+Cybersecurity+%26+Cloud+Engineer;🔐+Penetration+Tester+in+Training;☁️+AWS+%7C+Red+Hat+%7C+Cisco;🤖+AI+%26+Automation+Developer;🌐+Future+Remote+%7C+International+Tech)](https://git.io/typing-svg)
+<br><br>
 
-<br/>
+<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=PROFILE%20VIEWS&color=00f5ff&style=for-the-badge" />
 
-<!-- STATUS BADGES -->
-<a href="https://www.linkedin.com/in/lauane-santana">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff88?style=for-the-badge&logo=statuspage&logoColor=black&labelColor=0d0d0d" />
-</a>
-<img src="https://img.shields.io/badge/FOCUS-Cybersecurity-7c6bff?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=0d0d0d" />
-<img src="https://img.shields.io/badge/LOCATION-São%20Paulo%2C%20BR-2dd4bf?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0d0d0d" />
-<img src="https://img.shields.io/badge/OPEN%20TO-Remote%20%26%20International-a78bfa?style=for-the-badge&logo=remote&logoColor=white&labelColor=0d0d0d" />
+<img src="https://img.shields.io/github/followers/SEU_USUARIO?label=FOLLOWERS&style=for-the-badge&color=00f5ff&labelColor=050505" />
+
+<br><br>
 
 </div>
 
-<br/>
+---
 
-<!-- ═══════════════════════════════════════════════════════════════
-     TERMINAL — INICIALIZAÇÃO DO SISTEMA
-════════════════════════════════════════════════════════════════ -->
+# `01 // SYSTEM.IDENTITY`
 
-<div align="center">
-
-```
-┌──────────────────────────────────────────────────────────────────────┐
-│                     SYSTEM INITIALIZATION                            │
-│                   ━━━━━━━━━━━━━━━━━━━━━━━━                          │
-│                                                                      │
-│  [✓] Loading profile .............. LAUANE ALVES SANTANA            │
-│  [✓] Role ......................... Security & Cloud Developer       │
-│  [✓] Institution .................. IFSP — ADS                      │
-│  [✓] Current position ............. Intern @ Lead2Sales             │
-│  [✓] Primary focus ................ Cybersecurity                   │
-│  [✓] Learning stack ............... AWS · Red Hat · Cisco           │
-│  [✓] English level ................ Intermediate → Fluent (2026)    │
-│  [✓] Mission ...................... Build an extraordinary career    │
-│                                                                      │
-│  > SYSTEM READY. WELCOME.                                           │
-└──────────────────────────────────────────────────────────────────────┘
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                    DEVELOPER PROFILE                         │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  NAME        :: Lauane Alves Santana                         │
+│  ROLE        :: Developer | Cybersecurity Enthusiast         │
+│  EDUCATION   :: ADS @ IFSP                                   │
+│  STATUS      :: ONLINE                                       │
+│  LOCATION    :: Brazil 🇧🇷                                   │
+│                                                              │
+│  FOCUS       :: Software Development                         │
+│              :: Cybersecurity                                │
+│              :: Artificial Intelligence                       │
+│              :: Data & Automation                             │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
 
-</div>
+## `> About_Me.exe`
 
-<br/>
+I'm a **Technology in Systems Analysis and Development student** passionate about transforming ideas into technology.
 
-<!-- ═══════════════════════════════════════════════════════════════
-     SOBRE MIM
-════════════════════════════════════════════════════════════════ -->
+My journey combines **software development, cybersecurity, automation, data and artificial intelligence**, always looking for opportunities to learn, build and solve real-world problems.
 
-<img align="right" width="280" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
+Currently, I'm focused on strengthening my foundations in software engineering while exploring the intersection between **AI, security and intelligent systems**.
 
-## `> whoami`
+> `The goal isn't just to write code.`
+> `The goal is to build systems that matter.`
 
-```yaml
-name:        Lauane Alves Santana
-age:         23
-location:    São Paulo, Brasil
-education:   ADS @ IFSP (Instituto Federal de São Paulo)
-internship:  Lead2Sales — AI, Automation & CRM Startup
+---
 
-focus:
-  - Cybersecurity (Offensive & Defensive)
-  - Cloud Computing (AWS)
-  - Linux Administration (Red Hat)
-  - Automation & AI Integration
+# `02 // CURRENT.MISSION`
 
-certifications_in_progress:
-  - CompTIA Security+
-  - AWS Cloud Practitioner
-  - RHCSA (Red Hat Certified System Admin)
+```console
+┌──[ LAUANE@GITHUB ]─[~]
+└─$ cat current_mission.txt
 
-philosophy: >
-  I don't want just a job.
-  I want an extraordinary career built on
-  discipline, consistency and continuous growth.
+[+] Become a stronger software developer
+[+] Deepen my cybersecurity knowledge
+[+] Build real-world projects
+[+] Improve Python, Java & SQL
+[+] Explore Artificial Intelligence
+[+] Build a strong GitHub portfolio
+[+] Achieve professional fluency in English
+[+] Prepare for international opportunities
+
+STATUS: ███████████████████░░ 90%
+
+SYSTEM MESSAGE:
+Keep learning. Keep building. Keep evolving.
 ```
 
-<br clear="right"/>
+---
 
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════
-     TECH STACK
-════════════════════════════════════════════════════════════════ -->
-
-## `> tech --stack`
+# `03 // TECH.STACK`
 
 <div align="center">
 
-### ◈ Security & Infrastructure
+### `PROGRAMMING LANGUAGES`
 
-<a href="#"><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white" /></a>
+<img src="https://skillicons.dev/icons?i=java,python,c,js,html,css&theme=dark" />
 
-### ◈ Cloud & DevOps
+<br><br>
 
-<a href="#"><img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" /></a>
+### `DATABASE & DATA`
 
-### ◈ Development
+<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
 
-<a href="#"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /></a>
-<a href="#"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /></a>
+<br><br>
 
-### ◈ AI & Automation
+### `TOOLS & ENVIRONMENT`
 
-<a href="#"><img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" /></a>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,linux,bash&theme=dark" />
+
+<br><br>
+
+### `CLOUD & INFRASTRUCTURE`
+
+<img src="https://skillicons.dev/icons?i=aws,docker&theme=dark" />
 
 </div>
 
-<br/>
+---
 
-<!-- ═══════════════════════════════════════════════════════════════
-     FERRAMENTAS
-════════════════════════════════════════════════════════════════ -->
-
-## `> tools --list`
+# `04 // TOOLKIT`
 
 <div align="center">
 
-<a href="#"><img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=virtualbox&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/nmap-214478?style=for-the-badge&logo=nmap&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Git-050505?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/VS_Code-050505?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC"/>
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-050505?style=for-the-badge&logo=intellij-idea&logoColor=FF00FF"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Power_BI-050505?style=for-the-badge&logo=power-bi&logoColor=F2C811"/>
+<img src="https://img.shields.io/badge/n8n-050505?style=for-the-badge&logo=n8n&logoColor=EA4B71"/>
+<img src="https://img.shields.io/badge/REST_APIs-050505?style=for-the-badge&logo=fastapi&logoColor=00F5FF"/>
+<img src="https://img.shields.io/badge/JSON-050505?style=for-the-badge&logo=json&logoColor=00F5FF"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Cisco-050505?style=for-the-badge&logo=cisco&logoColor=00F5FF"/>
+<img src="https://img.shields.io/badge/Red_Hat-050505?style=for-the-badge&logo=redhat&logoColor=EE0000"/>
+<img src="https://img.shields.io/badge/AWS-050505?style=for-the-badge&logo=amazon-aws&logoColor=FF9900"/>
 
 </div>
 
-<br/>
+---
 
-<!-- ═══════════════════════════════════════════════════════════════
-     PROJETOS EM DESTAQUE
-════════════════════════════════════════════════════════════════ -->
+# `05 // PROJECT.DATABASE`
 
-## `> projects --featured`
+<table>
+<tr>
+
+<td width="50%">
+
+<h3>🤖 AI & AUTOMATION</h3>
+
+<b>Intelligent Assistant</b>
+
+<p>
+AI-powered assistant designed for automated customer interactions and CRM workflows.
+</p>
+
+<code>AI</code> <code>Automation</code> <code>CRM</code> <code>APIs</code>
+
+<br><br>
+
+<b>Lead Automation</b>
+
+<p>
+Automation workflows connecting leads, communication channels and business systems.
+</p>
+
+<code>n8n</code> <code>JSON</code> <code>APIs</code>
+
+</td>
+
+<td width="50%">
+
+<h3>💻 SOFTWARE DEVELOPMENT</h3>
+
+<b>Clocker Bus</b>
+
+<p>
+Academic project focused on interface design, usability and transportation.
+</p>
+
+<code>HTML</code> <code>CSS</code> <code>JavaScript</code>
+
+<br><br>
+
+<b>Management Systems</b>
+
+<p>
+Academic projects involving databases, business rules and object-oriented programming.
+</p>
+
+<code>Java</code> <code>SQL</code> <code>OOP</code>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# `06 // GITHUB.ANALYTICS`
 
 <div align="center">
 
-<a href="https://github.com/lauane-santana/security-studies">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lauane-santana&repo=security-studies&theme=tokyonight&border_color=7c6bff&bg_color=0d0d0d&title_color=a78bfa&text_color=e8e6f0&icon_color=2dd4bf" />
-</a>
-<a href="https://github.com/lauane-santana/home-lab">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lauane-santana&repo=home-lab&theme=tokyonight&border_color=7c6bff&bg_color=0d0d0d&title_color=a78bfa&text_color=e8e6f0&icon_color=2dd4bf" />
-</a>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=050505&title_color=00f5ff&icon_color=00f5ff&text_color=ffffff&ring_color=00f5ff&include_all_commits=true&count_private=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=050505&title_color=00f5ff&text_color=ffffff&langs_count=8"/>
 
 </div>
 
-<br/>
+<br>
 
 <div align="center">
 
-| 🔐 security-studies | ☁️ home-lab | 🤖 automation-flows |
-|:---:|:---:|:---:|
-| Write-ups do TryHackMe, anotações técnicas e estudos de cibersegurança documentados | pfSense + Suricata + Wazuh — laboratório de segurança doméstico documentado | Automações com n8n, Make e IA desenvolvidas no estágio |
-| ![Status](https://img.shields.io/badge/status-active-2dd4bf?style=flat-square&labelColor=0d0d0d) | ![Status](https://img.shields.io/badge/status-building-fbbf24?style=flat-square&labelColor=0d0d0d) | ![Status](https://img.shields.io/badge/status-active-2dd4bf?style=flat-square&labelColor=0d0d0d) |
+<img width="70%" src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=dark&hide_border=true&background=050505&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" />
 
 </div>
 
-<br/>
+---
 
-<!-- ═══════════════════════════════════════════════════════════════
-     OBJETIVOS — FORMATO TERMINAL
-════════════════════════════════════════════════════════════════ -->
+# `07 // ACTIVITY.GRAPH`
 
-## `> goals --current`
+<div align="center">
 
-```bash
-#!/bin/bash
-# CURRENT MISSION — 2026
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=050505&color=ffffff&line=00f5ff&point=ffffff&area=true&hide_border=true" width="100%"/>
 
-echo "═══════════════════════════════════════════════════"
-echo "  OPERATION: CAREER ACCELERATION"
-echo "═══════════════════════════════════════════════════"
+</div>
 
-# Q3 2026
-✅ Concluir curso de Cibersegurança (maio → agosto 2026)
-🔄 AWS Cloud Practitioner ............. [██████░░░░] 60%
-🔄 CompTIA Security+ .................. [████░░░░░░] 40%
-🔄 TryHackMe — Top 10% Global ......... [███░░░░░░░] 30%
-🔄 Inglês — Fluência técnica .......... [████░░░░░░] 45%
+---
 
-# Q4 2026
-⏳ RHCSA (Red Hat Certified Sys Admin)
-⏳ Home Lab documentado (pfSense + Suricata + Wazuh)
-⏳ 30+ commits/mês consistentes no GitHub
-⏳ Documentação técnica 100% em inglês
+# `08 // ACHIEVEMENTS`
 
-# 2027
-🎯 eJPT — Primeiro pentest certificado
-🎯 AWS Security Specialty
-🎯 Primeira vaga com foco em segurança
-🎯 Espanhol técnico
+<div align="center">
 
-echo "Target: extraordinary career. No shortcuts."
+<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7" />
+
+</div>
+
+---
+
+# `09 // CONTRIBUTION.PROTOCOL`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+---
+
+# `10 // LEARNING.PROTOCOL`
+
+```console
+╔══════════════════════════════════════════════════════════════╗
+║                     LEARNING PROTOCOL                       ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  [01] Cybersecurity       ███████████████░░░░░  75%          ║
+║  [02] Java                █████████████████░░░  85%          ║
+║  [03] Python              ███████████████░░░░░  75%          ║
+║  [04] SQL / Databases     █████████████████░░░  85%          ║
+║  [05] Artificial Intel.   ███████████░░░░░░░░  55%          ║
+║  [06] Cloud / AWS         ██████████░░░░░░░░░  50%          ║
+║  [07] English             ██████████████░░░░░░  70%          ║
+║                                                              ║
+║  SYSTEM STATUS :: LEARNING MODE ACTIVE                      ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
-<br/>
+---
 
-<!-- ═══════════════════════════════════════════════════════════════
-     GITHUB STATS
-════════════════════════════════════════════════════════════════ -->
-
-## `> github --stats`
+# `11 // CONNECT`
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lauane-santana&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d0d0d&border_color=7c6bff&title_color=a78bfa&text_color=e8e6f0&icon_color=2dd4bf&ring_color=7c6bff" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauane-santana&layout=compact&langs_count=8&theme=tokyonight&bg_color=0d0d0d&border_color=7c6bff&title_color=a78bfa&text_color=e8e6f0" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lauane-santana&theme=tokyonight&background=0d0d0d&border=7c6bff&ring=a78bfa&fire=2dd4bf&currStreakLabel=a78bfa&sideLabels=e8e6f0&currStreakNum=e8e6f0&sideNums=e8e6f0&dates=7c7a8a" />
-
-</div>
-
-<br/>
-
-<!-- ACTIVITY GRAPH -->
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lauane-santana&bg_color=0d0d0d&color=a78bfa&line=7c6bff&point=2dd4bf&area=true&area_color=7c6bff&hide_border=false&border_color=7c6bff&title_color=a78bfa" width="95%" />
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════
-     TROPHIES
-════════════════════════════════════════════════════════════════ -->
-
-## `> achievements --unlock`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=lauane-santana&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&row=1&column=7" width="95%" />
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════
-     SNAKE CONTRIBUTION
-════════════════════════════════════════════════════════════════ -->
-
-## `> contributions --visualize`
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lauane-santana/lauane-santana/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lauane-santana/lauane-santana/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/lauane-santana/lauane-santana/output/github-contribution-grid-snake-dark.svg" width="95%" />
-</picture>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════
-     CERTIFICAÇÕES E APRENDIZADO
-════════════════════════════════════════════════════════════════ -->
-
-## `> certifications --roadmap`
-
-<div align="center">
-
-```
-2026 ──────────────────────────────────────────────────────── 2027
-
-  [✓] Cybersecurity Fundamentals
-       │
-       ▼
-  [🔄] AWS Cloud Practitioner ──────────────────────────────►
-       │
-       ▼
-  [🔄] CompTIA Security+ ───────────────────────────────────►
-       │
-       ▼
-  [⏳] RHCSA (Red Hat) ─────────────────────────────────────►
-       │
-       ▼
-  [⏳] eJPT (Pentest) ──────────────────────────────────────►
-       │
-       ▼
-  [⏳] AWS Security Specialty ──────────────────────────────►
-
-  ✓ = concluído    🔄 = em andamento    ⏳ = próximo
-```
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════
-     REDES SOCIAIS
-════════════════════════════════════════════════════════════════ -->
-
-## `> connect --network`
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/lauane-santana" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://tryhackme.com/p/lauanesantana" target="_blank">
-  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
-</a>
-<a href="mailto:lauane.santana@email.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/lauane-santana" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=00F5FF"/>
 </a>
 
-<br/><br/>
+<a href="mailto:SEU_EMAIL">
+<img src="https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=00F5FF"/>
+</a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=lauane-santana&label=PROFILE+VIEWS&color=7c6bff&style=for-the-badge&labelColor=0d0d0d)
-![Followers](https://img.shields.io/github/followers/lauane-santana?label=FOLLOWERS&style=for-the-badge&color=2dd4bf&labelColor=0d0d0d&logo=github)
+<a href="https://github.com/SEU_USUARIO">
+<img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a>
 
 </div>
 
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════
-     RODAPÉ
-════════════════════════════════════════════════════════════════ -->
+---
 
 <div align="center">
 
-```
-"A diferença entre uma profissional mediana e uma referência
- não é talento. É quem executa o plano quando não tem vontade."
-```
+<br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2dd4bf,50:7c6bff,100:0d0d0d&height=120&section=footer&animation=fadeIn" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&lines=Code.+Learn.+Secure.+Innovate.;Turning+ideas+into+systems.;Building+today+for+the+technology+of+tomorrow." />
+
+<br><br>
+
+`[ SYSTEM STATUS: ONLINE ]`
+`[ SECURITY LEVEL: ACTIVE ]`
+`[ NEXT OBJECTIVE: BUILD SOMETHING GREAT ]`
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,50:0a0f1c,100:050505&height=100&section=footer"/>
 
 </div>
+
