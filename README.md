@@ -1,26 +1,22 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════════
-     BANNER PRINCIPAL — rosa + ciano + escuro, cyberpunk
+     BANNER PRINCIPAL
 ════════════════════════════════════════════════════════════════ -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,30:1a0a2e,60:ff2d78,100:2dd4bf&height=220&section=header&text=LAUANE%20SANTANA&fontSize=48&fontColor=ffffff&fontAlignY=45&desc=Cybersecurity%20%7C%20Cloud%20%7C%20Automation&descSize=15&descAlignY=62&descColor=ff80b5&animation=fadeIn&fontAlign=50&stroke=ff2d78&strokeWidth=1" />
 
-<!-- ═══════════════════════════════════════════════════════════════
-     ANIMAÇÕES DE TOPO — múltiplas linhas
-════════════════════════════════════════════════════════════════ -->
-
-<br/>
-
+<!-- TYPING 1 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2800&pause=700&color=FF2D78&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=🔐+Security+is+not+a+product+—+it's+a+process;☁️+Cloud+%7C+AWS+%7C+Red+Hat+%7C+Cisco;🕵️+Penetration+Testing+%26+Threat+Analysis;🤖+AI+Automation+Developer+%40+Lead2Sales;⚡+Building+an+extraordinary+career)](https://git.io/typing-svg)
 
 <br/>
 
+<!-- TYPING 2 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=14&duration=4000&pause=1200&color=2DD4BF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=35&lines=%5B+SYSTEM+ONLINE+%5D+Initializing+security+protocols...;%5B+ACCESS+GRANTED+%5D+Welcome+to+my+digital+fortress.;%5B+SCANNING+%5D+Vulnerabilities+detected+%26+patched.;%5B+ENCRYPTING+%5D+Data+secured.+Connection+established.)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- BADGES DE STATUS -->
+<!-- BADGES -->
 <img src="https://img.shields.io/badge/🔒_STATUS-SECURE-ff2d78?style=for-the-badge&labelColor=0d0d0d" />
 <img src="https://img.shields.io/badge/⚡_FOCUS-Cybersecurity-a78bfa?style=for-the-badge&labelColor=0d0d0d" />
 <img src="https://img.shields.io/badge/☁️_CLOUD-AWS_&_RedHat-2dd4bf?style=for-the-badge&labelColor=0d0d0d" />
@@ -28,7 +24,6 @@
 
 <br/><br/>
 
-<!-- LINHA DECORATIVA -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 </div>
@@ -36,12 +31,12 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════
-     SOBRE MIM — sem dados sensíveis
+     SOBRE MIM
 ════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## <img src="https://img.icons8.com/nolan/64/lock-2.png" width="28"/> `whoami`
+## 🔐 `whoami`
 
 </div>
 
@@ -74,18 +69,17 @@ class LauaneSantana:
 ```
 
 <br clear="right"/>
-
 <br/>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
 <!-- ═══════════════════════════════════════════════════════════════
-     TECH STACK COM ÍCONES REAIS
+     TECH STACK
 ════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
-## <img src="https://img.icons8.com/nolan/64/source-code.png" width="28"/> `tech --stack`
+## ⚡ `tech --stack`
 
 ### ◈ Languages I code in
 
@@ -134,7 +128,7 @@ class LauaneSantana:
 
 <div align="center">
 
-## <img src="https://img.icons8.com/nolan/64/settings.png" width="28"/> `tools --active`
+## 🛠️ `tools --active`
 
 <a href="#"><img src="https://skillicons.dev/icons?i=vscode,obsidian,figma,postman,mysql,notion&theme=dark&perline=6" /></a>
 
@@ -158,7 +152,7 @@ class LauaneSantana:
 
 <div align="center">
 
-## <img src="https://img.icons8.com/nolan/64/source-code.png" width="28"/> `projects --featured`
+## 🗂️ `projects --featured`
 
 <a href="https://github.com/lauanesantana/security-studies">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=lauanesantana&repo=security-studies&theme=tokyonight&border_color=ff2d78&bg_color=0d0d0d&title_color=ff80b5&text_color=e8e6f0&icon_color=2dd4bf" />
@@ -186,7 +180,7 @@ class LauaneSantana:
 
 <div align="center">
 
-## <img src="https://img.icons8.com/nolan/64/graph.png" width="28"/> `github --stats`
+## 📊 `github --stats`
 
 <br/>
 
@@ -206,14 +200,16 @@ class LauaneSantana:
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════
-     TROPHIES
+     TROPHIES — aparecem conforme o perfil cresce
 ════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## <img src="https://img.icons8.com/nolan/64/prize.png" width="28"/> `achievements --list`
+## 🏆 `achievements --list`
 
 <img src="https://github-profile-trophy.vercel.app/?username=lauanesantana&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&row=1&column=7" width="95%" />
+
+> _Os troféus aparecem automaticamente conforme o perfil cresce — commits, repositórios, seguidores e contribuições._
 
 </div>
 
@@ -227,7 +223,7 @@ class LauaneSantana:
 
 <div align="center">
 
-## <img src="https://img.icons8.com/nolan/64/cyber-security.png" width="28"/> `contributions --trace`
+## 🐍 `contributions --trace`
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lauanesantana/lauanesantana/output/github-contribution-grid-snake-dark.svg" />
@@ -247,11 +243,11 @@ class LauaneSantana:
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-## <img src="https://img.icons8.com/nolan/64/link.png" width="28"/> `connect --network`
+## 🌐 `connect --network`
 
 <br/>
 
-<a href="https://www.linkedin.com/in/lauanesantana" target="_blank">
+<a href="https://www.linkedin.com/in/lauane-santana" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d" />
 </a>
 &nbsp;
@@ -274,16 +270,8 @@ class LauaneSantana:
 
 <br/><br/>
 
-<!-- RODAPÉ -->
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:1a0a2e,70:ff2d78,100:2dd4bf&height=130&section=footer&animation=fadeIn" />
 
-<sub>
-<img src="https://img.icons8.com/nolan/20/lock-2.png" width="14"/>
-&nbsp;
-<i>Security is not a destination — it's a discipline.</i>
-&nbsp;
-<img src="https://img.icons8.com/nolan/20/lock-2.png" width="14"/>
-</sub>
+<sub><i>🔒 Security is not a destination — it's a discipline. 🔒</i></sub>
 
 </div>
