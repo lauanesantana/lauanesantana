@@ -64,8 +64,7 @@ class LauaneSantana:
         "📚 Consistent daily learning — no exceptions",
     ]
 
-    philosophy = "Extraordinary careers are built in silence, \
-                  \n               revealed in results."
+    philosophy = "Why not me?"
 ```
 
 <br clear="right"/>
