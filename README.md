@@ -160,11 +160,11 @@ class LauaneSantana:
 
 ## <img src="https://img.icons8.com/nolan/64/source-code.png" width="28"/> `projects --featured`
 
-<a href="https://github.com/lauane-santana/security-studies">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lauane-santana&repo=security-studies&theme=tokyonight&border_color=ff2d78&bg_color=0d0d0d&title_color=ff80b5&text_color=e8e6f0&icon_color=2dd4bf" />
+<a href="https://github.com/Lauane Santana/security-studies">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lauane Santana&repo=security-studies&theme=tokyonight&border_color=ff2d78&bg_color=0d0d0d&title_color=ff80b5&text_color=e8e6f0&icon_color=2dd4bf" />
 </a>
-<a href="https://github.com/lauane-santana/home-lab">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lauane-santana&repo=home-lab&theme=tokyonight&border_color=ff2d78&bg_color=0d0d0d&title_color=ff80b5&text_color=e8e6f0&icon_color=2dd4bf" />
+<a href="https://github.com/Lauane Santana/home-lab">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lauane Santana&repo=home-lab&theme=tokyonight&border_color=ff2d78&bg_color=0d0d0d&title_color=ff80b5&text_color=e8e6f0&icon_color=2dd4bf" />
 </a>
 
 <br/><br/>
@@ -190,16 +190,16 @@ class LauaneSantana:
 
 <br/>
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=lauane-santana&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d0d0d&border_color=ff2d78&title_color=ff80b5&text_color=e8e6f0&icon_color=2dd4bf&ring_color=ff2d78" />
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauane-santana&layout=compact&langs_count=7&theme=tokyonight&bg_color=0d0d0d&border_color=ff2d78&title_color=ff80b5&text_color=e8e6f0" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Lauane Santana&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0d0d0d&border_color=ff2d78&title_color=ff80b5&text_color=e8e6f0&icon_color=2dd4bf&ring_color=ff2d78" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lauane Santana&layout=compact&langs_count=7&theme=tokyonight&bg_color=0d0d0d&border_color=ff2d78&title_color=ff80b5&text_color=e8e6f0" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lauane-santana&theme=tokyonight&background=0d0d0d&border=ff2d78&ring=ff80b5&fire=2dd4bf&currStreakLabel=ff80b5&sideLabels=e8e6f0&currStreakNum=ffffff&sideNums=e8e6f0&dates=7c7a8a" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lauane Santana&theme=tokyonight&background=0d0d0d&border=ff2d78&ring=ff80b5&fire=2dd4bf&currStreakLabel=ff80b5&sideLabels=e8e6f0&currStreakNum=ffffff&sideNums=e8e6f0&dates=7c7a8a" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lauane-santana&bg_color=0d0d0d&color=ff80b5&line=ff2d78&point=2dd4bf&area=true&area_color=ff2d78&hide_border=false&border_color=ff2d78&title_color=ff80b5" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lauane Santana&bg_color=0d0d0d&color=ff80b5&line=ff2d78&point=2dd4bf&area=true&area_color=ff2d78&hide_border=false&border_color=ff2d78&title_color=ff80b5" width="95%" />
 
 </div>
 
@@ -213,7 +213,7 @@ class LauaneSantana:
 
 ## <img src="https://img.icons8.com/nolan/64/prize.png" width="28"/> `achievements --list`
 
-<img src="https://github-profile-trophy.vercel.app/?username=lauane-santana&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&row=1&column=7" width="95%" />
+<img src="https://github-profile-trophy.vercel.app/?username=Lauane Santana&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&row=1&column=7" width="95%" />
 
 </div>
 
@@ -230,9 +230,9 @@ class LauaneSantana:
 ## <img src="https://img.icons8.com/nolan/64/cyber-security.png" width="28"/> `contributions --trace`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lauane-santana/lauane-santana/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lauane-santana/lauane-santana/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake contribution animation" src="https://raw.githubusercontent.com/lauane-santana/lauane-santana/output/github-contribution-grid-snake-dark.svg" width="95%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lauane Santana/Lauane Santana/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lauane Santana/Lauane Santana/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake contribution animation" src="https://raw.githubusercontent.com/Lauane Santana/Lauane Santana/output/github-contribution-grid-snake-dark.svg" width="95%" />
 </picture>
 
 </div>
@@ -251,7 +251,7 @@ class LauaneSantana:
 
 <br/>
 
-<a href="https://www.linkedin.com/in/lauane-santana" target="_blank">
+<a href="https://www.linkedin.com/in/Lauane Santana" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d" />
 </a>
 &nbsp;
@@ -263,14 +263,14 @@ class LauaneSantana:
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d" />
 </a>
 &nbsp;
-<a href="https://github.com/lauane-santana">
+<a href="https://github.com/Lauane Santana">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d" />
 </a>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=lauane-santana&label=PROFILE+VIEWS&color=ff2d78&style=for-the-badge&labelColor=0d0d0d)
-![Followers](https://img.shields.io/github/followers/lauane-santana?label=FOLLOWERS&style=for-the-badge&color=2dd4bf&labelColor=0d0d0d&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=Lauane Santana&label=PROFILE+VIEWS&color=ff2d78&style=for-the-badge&labelColor=0d0d0d)
+![Followers](https://img.shields.io/github/followers/Lauane Santana?label=FOLLOWERS&style=for-the-badge&color=2dd4bf&labelColor=0d0d0d&logo=github)
 
 <br/><br/>
 
