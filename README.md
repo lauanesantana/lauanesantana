@@ -259,7 +259,7 @@ class LauaneSantana:
   <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0d0d0d" />
 </a>
 &nbsp;
-<a href="mailto:lauane.santana@email.com">
+<a href="mailto:lauanesantana60@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d" />
 </a>
 &nbsp;
